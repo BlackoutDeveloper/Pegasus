@@ -1,0 +1,27 @@
+{
+  "name": "pegasus",
+  "version": "1.0.0",
+  "description": "CHB BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PEGASUS"
+  ],
+  "author": "Kampe#0001",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-blackjack": "^3.0.3",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "math": "^0.0.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.1",
+    "pm2": "^5.1.2",
+    "random-puppy": "^1.1.0",
+    "tech-tip-cyber": "^1.2.3"
+  }
+}

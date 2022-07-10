@@ -1,0 +1,7 @@
+/node_modules
+/commands/dev
+/configs
+.env
+/logs
+/handlers
+/Notes
